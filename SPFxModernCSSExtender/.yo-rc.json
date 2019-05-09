@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "whichFolder": "subdir",
+    "version": "1.7.1",
+    "libraryName": "ll-cssextender",
+    "libraryId": "d7165131-b6cf-421e-9904-2301ed16f93e",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
