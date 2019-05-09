@@ -1,4 +1,4 @@
-## ll-cssextender
+## SPFx-cssextender
 
 This is where you include your WebPart documentation.
 
